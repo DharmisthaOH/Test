@@ -1,0 +1,9 @@
+1)FR product bundle with FR
+2)Normal product bundle with FR
+3)FR bundle with normal product
+4)Add order for FR product
+5)Add order with merge product of FR
+6)Add order of normal product with FR product is bundled
+7)Delete all above order and check inventory
+8)manual update of all products with are related to 1,2,3
+9)test
